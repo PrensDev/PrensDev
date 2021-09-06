@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi! I'm PrensDev! 👋
 
-<!--
-**PrensDev/PrensDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+My name is Jetsun Prince Torres. I am 🇵🇭 Filipino and currently a 👦 BSIT student. Interested in 💻 Web Development, 💻 UI/UX Design, and 💻 Programming. Desiring to be a 😎💻 Full-stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+Knowlegdeable in:
+
+- 💪 HTML5
+- 💪 CSS3
+- 🤘 JavaScript
+- 😀 jQuery
+- 😎 PHP
+- 😏 Sass
+- 😁 NodeJS
+- 😀 Express
+- 🤗 Sequelize
+- 😮 CodeIgniter
+- 😅 Phyton
+- 😖 FastAPI
