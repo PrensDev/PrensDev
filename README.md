@@ -14,11 +14,14 @@ Knowlegdeable in:
 - 😀 jQuery
 - 😎 PHP
 - 😏 Sass
+- 😜 Tailwind
 - 😁 NodeJS
 - 😀 Express
 - 🤗 Sequelize
 - 😮 CodeIgniter
-- 📱 Flutter
+- 🖥 MySQL
+- 🖥 MSSQL
+- 📱 Flutter 
 - 😅 Phyton
 - 😖 FastAPI
 
