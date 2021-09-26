@@ -25,6 +25,11 @@ Knowlegdeable in:
 - 😅 Phyton
 - 😖 FastAPI
 
+Currently studying:
+- 🤗 ReactJS
+- 🤗 VueJS
+- 🤗 Angular
+
 ## Recent Projects
 
 - [VaxxTraxk](https://github.com/PrensDev/vaxxtrack) & [VaxxTrack API](https://github.com/PrensDev/vaxxtrack-api) - A COVID-19 Contact Tracing App and Vaccine Monitoring System
