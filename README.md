@@ -29,6 +29,7 @@ Currently studying:
 - 🤗 ReactJS
 - 🤗 VueJS
 - 🤗 Angular
+- 🤗 Laravel
 
 ## Recent Projects
 
