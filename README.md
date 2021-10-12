@@ -15,6 +15,7 @@ Knowlegdeable in:
 - 😎 PHP
 - 😏 Sass
 - 😜 Tailwind
+- 😏 PostCSS
 - 😁 NodeJS
 - 😀 Express
 - 🤗 Sequelize
