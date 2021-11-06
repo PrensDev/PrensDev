@@ -1,5 +1,5 @@
 <h1 align="center">< Hi! I'm PrensDev! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> /></h1>
-  
+
 ## 👦 About Me
 
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
@@ -30,7 +30,6 @@ const PrensDev = {
 }
 ```
 
-<br>
 <br>
 <br>
   
@@ -79,9 +78,17 @@ Currently studying:
 
 <br>
 <br>
-<br>
   
 ## 💻 Recent Projects
 
 - [VaxxTraxk](https://github.com/PrensDev/vaxxtrack) & [VaxxTrack API](https://github.com/PrensDev/vaxxtrack-api) - A COVID-19 Contact Tracing App and Vaccine Monitoring System
 - [ABN Job Portal](https://github.com/PrensDev/ABN-Job-Portal) - A Job Portal Web Application
+  
+<br>
+<br>
+  
+ 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrensDev&show_icons=true&theme=onedark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrensDev&theme=onedark" />
+</p>
