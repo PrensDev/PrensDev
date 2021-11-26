@@ -83,6 +83,7 @@ Currently studying:
 
 - [VaxxTraxk](https://github.com/PrensDev/vaxxtrack) & [VaxxTrack API](https://github.com/PrensDev/vaxxtrack-api) - A COVID-19 Contact Tracing App and Vaccine Monitoring System
 - [ABN Job Portal](https://github.com/PrensDev/ABN-Job-Portal) - A Job Portal Web Application
+- [MS Word Filipino](https://github.com/PrensDev/mswordfilipino) - Static Web App to train Filipinos in using MS Word with the use of Filipino language
   
 <br>
 <br>
