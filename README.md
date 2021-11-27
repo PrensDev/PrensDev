@@ -26,6 +26,9 @@ const PrensDev = {
     'Web Development',
     'UI Design',
     'Programming'
+  ],
+  achievements: [
+    '3rd place in Web Designing, Division Technolympics - Valenzuela City (2016)'
   ]
 }
 ```
