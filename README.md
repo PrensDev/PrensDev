@@ -117,4 +117,5 @@ Currently studying:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrensDev&show_icons=true&theme=onedark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrensDev&theme=onedark" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrensDev&layout=compact&theme=onedark" />
 </p>
