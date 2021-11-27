@@ -24,13 +24,13 @@ const PrensDev = {
       year: {start: 2018, end: 'Present'}
     },
   ],
+  achievements: [
+    '3rd place in Web Designing, Division Technolympics - Valenzuela City (2016)'
+  ],
   interests: [
     'Web Development',
     'UI Design',
     'Programming'
-  ],
-  achievements: [
-    '3rd place in Web Designing, Division Technolympics - Valenzuela City (2016)'
   ]
 }
 ```
