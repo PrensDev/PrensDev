@@ -14,10 +14,12 @@ const PrensDev = {
   gender: 'Male',
   education: [
     {
+      junior_high: 'Bignay National High School',
+      year: {start: 2012, end: 2016}
+    }, {
       senior_high: 'Our Lady of Fatima University, Quezon City'.
       year: {start: 2016, end: 2018}
-    },
-    {
+    }, {
       college: 'Polytechnic University of the Philippines, Quezon City'.
       year: {start: 2018, end: 'Present'}
     },
