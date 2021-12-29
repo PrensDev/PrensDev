@@ -114,7 +114,7 @@ Currently studying:
  
 ### UI Designs
   
-* [PayLight UI](https://github.com/PrensDev/PayLight-UI) - A mobile banking, wallet, abd payment service app
+* [PayLight UI](https://github.com/PrensDev/PayLight-UI) - A mobile banking, wallet, and payment service app
   
 <br>
 <br>
