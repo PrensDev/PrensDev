@@ -2,7 +2,7 @@
   
 ## 👦 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2316A34A&lines=Web+Developer+and+Designer;UI+%2F+UX+Passionate;Programmer;I+am+PrensDev;and+nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2316A34A&lines=Web+Developer+and+Designer;UI+%2F+UX+Passionate;Programmer;Hello%2C+I+am+PrensDev;and+nice+to+meet+you!)](https://git.io/typing-svg)
   
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
