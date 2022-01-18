@@ -2,9 +2,7 @@
   
 ## 👦 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2316A34A&lines=Web+Developer+and+Designer;UI+%2F+UX+Passionate;Programmer;Hello%2C+I+am+PrensDev;and+nice+to+meet+you!" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2316A34A&lines=Web+Developer+and+Designer;UI+%2F+UX+Passionate;Programmer;Hello%2C+I+am+PrensDev;and+nice+to+meet+you!" />
   
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
