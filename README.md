@@ -1,5 +1,7 @@
 <h1 align="center">< Hi! I'm PrensDev! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> /></h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2316A34A&lines=Web+Developer+and+Designer;UI+%2F+UX+Passionate;Programmer;I+am+PrensDev;and+nice+to+meet+you!)](https://git.io/typing-svg)
+  
 ## 👦 About Me
 
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
