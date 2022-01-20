@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2316A34A&lines=Web+Developer+and+Designer;UI+%2F+UX+Passionate;Programmer;Hello%2C+I+am+PrensDev;and+nice+to+meet+you!" />
   
-<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
+<img align="right" width="300" src="https://api.daily.dev/devcards/77a1f2ecaaae4e1dad49976a7d17f0ee.png?r=3oq">
 
 ```javascript
 const PrensDev = {
