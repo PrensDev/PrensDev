@@ -31,7 +31,7 @@ const PrensDev = {
   ],
   interests: [
     'Web Development',
-    'UI Design',
+    'UI/UX Design',
     'Programming'
   ]
 }
