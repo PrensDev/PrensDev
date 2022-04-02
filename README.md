@@ -106,9 +106,7 @@ Knowlegdeable in:
 
 Currently studying:
 - 🤗 ReactJS
-- 🤗 VueJS
-- 🤗 Angular
-- 🤗 Laravel
+- 🤗 ReactNative
 
 <br>
 <br>
