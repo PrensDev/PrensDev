@@ -120,7 +120,7 @@ Currently studying:
 <br>
   
  
-<div align="center"
+<div align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=PrensDev&show_icons=true&theme=onedark" />
   <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrensDev&theme=onedark" />
   <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrensDev&layout=compact&theme=onedark" />
