@@ -1,4 +1,4 @@
-<h1 align="center">< Hi! I'm PrensDev! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> /></h1>
+<h1 align="center">< Hi! I'm PrensDev! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> /></h1>
   
 ## 👦 About Me                                                                 
   
