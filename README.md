@@ -100,6 +100,7 @@ Knowlegdeable in:
 Currently studying:
 - 🤗 ReactJS
 - 🤗 MongoDB & Mongoose
+- 🤗 Road to MERN Stack!
 
 <br>
 <br>
