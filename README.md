@@ -99,7 +99,7 @@ Knowlegdeable in:
 
 Currently studying:
 - 🤗 ReactJS
-- 🤗 ReactNative
+- 🤗 MongoDB & Mongoose
 
 <br>
 <br>
