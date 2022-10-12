@@ -14,7 +14,7 @@
 
 <h2>👋 About Me</h2> 
 
-<img align="right" width="325" src="https://api.daily.dev/devcards/77a1f2ecaaae4e1dad49976a7d17f0ee.png?r=3oq"/>
+<img align="right" width="300" src="https://api.daily.dev/devcards/77a1f2ecaaae4e1dad49976a7d17f0ee.png?r=3oq"/>
 
 <div>
   <p>Hello world, I am <strong>Jetsun Prince Torres</strong>. A Filipino Web Developer, UI/UX Designer, Computer Programmer, and Aspirant Full-Stack Developer.</p>
