@@ -95,13 +95,13 @@ h2 {
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">, I am <strong>PrensDev</strong>!</h1>
 
 <center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3500&pause=1000&color=2C98C8&center=true&vCenter=true&width=435&lines=%3C+Software+Developer+%2F%3E;%3C+UI%2FUX+Designer+%2F%3E;%3C+Computer+Programmer+%2F%3E;%3C+Full-Stack+Developer+%2F%3E;Hi+%F0%9F%91%8B%2C+I+am+PrensDev;Glad+to+meet+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3500&pause=1000&color=2C98C8&center=true&vCenter=true&width=435&lines=%3C+Web+Developer+%2F%3E;%3C+UI%2FUX+Designer+%2F%3E;%3C+Computer+Programmer+%2F%3E;%3C+Full-Stack+Developer+%2F%3E;Hi+%F0%9F%91%8B%2C+I+am+PrensDev;Glad+to+meet+you!" alt="Typing SVG" />
 </center>
 
 <h2>👋 About Me</h2>
 <div class="d-flex mb-1 about-me">
   <div class="mr-1">
-    <p>Hello world, I am <strong>Jetsun Prince Torres</strong>. A Filipino Software Developer, UI/UX Designer, Computer Programmer, and Aspirant Full-Stack Developer.</p>
+    <p>Hello world, I am <strong>Jetsun Prince Torres</strong>. A Filipino Web Developer, UI/UX Designer, Computer Programmer, and Aspirant Full-Stack Developer.</p>
     <div class="about-me-container">
       <div class="d-flex list">
         <div class="mr-p5">🎓</div> 
@@ -109,7 +109,7 @@ h2 {
       </div>
       <div class="d-flex list">
         <div class="mr-p5">🎯</div>
-        <div>Eager to start my professional career as a <strong>Software Developer</strong>.</div>
+        <div>Eager to start my professional career as a <strong>Web Developer</strong>.</div>
       </div>
       <div class="d-flex list">
         <div class="mr-p5">📊</div>
@@ -117,7 +117,7 @@ h2 {
       </div>
       <div class="d-flex list">
         <div class="mr-p5">🏢</div>
-        <div>Leader and cooperative team player that successfully organize tasks, time-efficient, and productive that produces most high-quality output.</div>
+        <div>Responsible, productive, eager to learn, attentive to details, agile.</div>
       </div>
       <div class="d-flex list">
         <div class="mr-p5">💛</div>
