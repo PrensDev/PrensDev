@@ -35,8 +35,6 @@
 
 <h2>💻 Tech Stack</h2>
 
-<br>
-
 <p>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -68,8 +66,7 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
 </p>
 
-<br>
-<br>
+<!-- Section: Recent Projects -->
 
 <h2>📋 Recent Projects</h2>
 
