@@ -2,14 +2,13 @@
 
 <!-- Section: Typing Description -->
 
-<center>
+<p align="center">
   <img 
-    align="center"
     src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3500&pause=1000&color=2C98C8&center=true&vCenter=true&width=435&lines=%3C+Web+Developer+%2F%3E;%3C+UI%2FUX+Designer+%2F%3E;%3C+Computer+Programmer+%2F%3E;%3C+Full-Stack+Developer+%2F%3E;Hi+%F0%9F%91%8B%2C+I+am+PrensDev;Glad+to+meet+you!"
     alt="Typing SVG" 
     style="display: block; margin-left: auto;margin-right: auto; width: 50%;" 
   />
-</center>
+</p>
 
 <!-- Section: About Me -->
 
