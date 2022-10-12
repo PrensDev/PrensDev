@@ -86,12 +86,18 @@
   
 * [PayLight UI](https://github.com/PrensDev/PayLight-UI) - A mobile banking, wallet, and payment service app
   
-<br>
+<!-- Section: Stats -->
+
+<h2>⚡ Stats</h2>
 
 <div align="center">
-  <img height="100rem" src="https://github-readme-stats.vercel.app/api?username=PrensDev&show_icons=true&theme=onedark" />
-  <img height="100rem" src="https://github-readme-streak-stats.herokuapp.com/?user=PrensDev&theme=onedark" />
-  <img height="100rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrensDev&layout=compact&theme=onedark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=PrensDev&theme=react">
+</div>
+
+<div align="center">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=PrensDev&show_icons=true&theme=onedark" />
+  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=PrensDev&theme=onedark" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrensDev&layout=compact&theme=onedark" />
 </div>
   
 <div align="center">
