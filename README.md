@@ -9,7 +9,6 @@
     style="display: block; margin-left: auto;margin-right: auto; width: 50%;" 
   />
 </p>
-
 <!-- Section: About Me -->
 
 <h2>👋 About Me</h2> 
@@ -26,6 +25,13 @@
   <p style="margin-left: 1rem; margin-right: 1rem;">💛 I really enjoy coding in <strong>JavaScript</strong>.</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">📚 Currently learning <strong>MERN Stack</strong>.</p>
 
+  <p>
+    <a href="https://www.buymeacoffee.com/JetsunPrince" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="40" width="180" >
+    </a>
+  </p>
+  <p>
+  </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=PrensDev&style=for-the-badge">
   </p>
