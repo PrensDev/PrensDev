@@ -88,9 +88,6 @@
   
 <br>
 
-<br>
-<br>
-
 <div align="center">
   <img height="100rem" src="https://github-readme-stats.vercel.app/api?username=PrensDev&show_icons=true&theme=onedark" />
   <img height="100rem" src="https://github-readme-streak-stats.herokuapp.com/?user=PrensDev&theme=onedark" />
