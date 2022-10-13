@@ -83,7 +83,8 @@
 * [Hospital Recruitment Management System](https://github.com/PrensDev/homies-recruitment) - A Recruitment Management System built and designed for Hospital
 * [ABN Job Portal](https://github.com/PrensDev/ABN-Job-Portal) - A Job Portal Web Application
 * [MS Word Filipino](https://github.com/PrensDev/mswordfilipino) - Static Web App to train Filipinos in using MS Word with the use of Filipino language
- 
+* [PUPSIS App](https://github.com/PrensDev/pupsis_app) - A Mobile Application implemented with WebView to render PUP-SIS for Mobile Devices
+
 <h3>UI Design</h3>
   
 * [PayLight UI](https://github.com/PrensDev/PayLight-UI) - A mobile banking, wallet, and payment service app
