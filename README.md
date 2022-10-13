@@ -79,6 +79,7 @@
 <h3>Systems</h3>
 
 * [VaxxTrack](https://github.com/PrensDev/vaxxtrack) & [VaxxTrack API](https://github.com/PrensDev/vaxxtrack-api) - A COVID-19 Contact Tracing App and Vaccine Monitoring System
+* [PUPQC-EPMS](https://github.com/pupqc-extension-2122/pupqc-extension-2122) - An Extension Project Management System for the PUP, Quezon City.
 * [Hospital Recruitment Management System](https://github.com/PrensDev/homies-recruitment) - A Recruitment Management System built and designed for Hospital
 * [ABN Job Portal](https://github.com/PrensDev/ABN-Job-Portal) - A Job Portal Web Application
 * [MS Word Filipino](https://github.com/PrensDev/mswordfilipino) - Static Web App to train Filipinos in using MS Word with the use of Filipino language
