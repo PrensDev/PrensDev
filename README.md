@@ -19,7 +19,7 @@
   <p>Hello world, I am <strong>Jetsun Prince Torres</strong>. A Filipino Web Developer, UI/UX Designer, Computer Programmer, and Aspirant Full-Stack Developer.</p>
 
   <p style="margin-left: 1rem; margin-right: 1rem;">🎓 Graduated with a degree of <strong>Bachelor of Science in Information Technology</strong> in <strong>Polytechnic Univeristy of the Philippines, Quezon City</strong>.</p>
-  <p style="margin-left: 1rem; margin-right: 1rem;">🎯 Eager to start my professional career as a <strong>Web Developer</strong>.</p>
+  <p style="margin-left: 1rem; margin-right: 1rem;">🎯 Eager to start my professional career as a <strong>Software Developer</strong>.</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">📊 Built innovate, modern, and integrative technologies that provide soutions to the real-world problems.</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">💪 Responsible, productive, team player, eager to learn, attentive to details, agile.</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">💛 I really enjoy coding in <strong>JavaScript</strong>.</p>
