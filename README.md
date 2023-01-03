@@ -16,7 +16,7 @@
 <img align="right" width="300" src="https://api.daily.dev/devcards/77a1f2ecaaae4e1dad49976a7d17f0ee.png?r=3oq"/>
 
 <div>
-  <p>Hello world, I am <strong>Jetsun Prince Torres</strong>. A Filipino Web Developer, UI/UX Designer, Computer Programmer, and Aspirant Full-Stack Developer.</p>
+  <p>Hello world, I am <strong>Jetsun Prince Torres</strong>. A Filipino Web Developer & Designer, Computer Programmer, and Aspirant Full-Stack Developer.</p>
 
   <p style="margin-left: 1rem; margin-right: 1rem;">🎓 Graduated with a degree of <strong>Bachelor of Science in Information Technology</strong> in <strong>Polytechnic Univeristy of the Philippines, Quezon City</strong>.</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">🎯 Eager to start my professional career as a <strong>Software Developer</strong>.</p>
