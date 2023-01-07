@@ -96,7 +96,7 @@
 <h2>⚡ Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PrensDev&theme=react](https://github-readme-activity-graph.cyclic.app/graph?username=PrensDev&theme=react">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PrensDev&theme=react">
 </div>
 
 <div align="center">
