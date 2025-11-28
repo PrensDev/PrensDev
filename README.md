@@ -18,12 +18,11 @@
 <div>
   <p>Hello world, I am <strong>Jetsun Prince Torres</strong>. A Filipino Web Developer & Designer, Computer Programmer, and Aspirant Full-Stack Developer.</p>
 
+  <p style="margin-left: 1rem; margin-right: 1rem;">🏢 Currently working as a <strong>Software Engineer</strong> at BGC, Taguig City with experience in SAP HCM</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">🎓 Graduated with a degree of <strong>Bachelor of Science in Information Technology</strong> in <strong>Polytechnic Univeristy of the Philippines, Quezon City</strong>.</p>
-  <p style="margin-left: 1rem; margin-right: 1rem;">🎯 Eager to start my professional career as a <strong>Software Developer</strong>.</p>
-  <p style="margin-left: 1rem; margin-right: 1rem;">📊 Built innovate, modern, and integrative technologies that provide soutions to the real-world problems.</p>
+  <p style="margin-left: 1rem; margin-right: 1rem;">📊 I built innovate, modern, and integrative technologies that provide soutions to the real-world problems.</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">💪 Responsible, productive, team player, eager to learn, attentive to details, agile.</p>
   <p style="margin-left: 1rem; margin-right: 1rem;">💛 I really enjoy coding in <strong>JavaScript</strong>.</p>
-  <p style="margin-left: 1rem; margin-right: 1rem;">📚 Currently learning <strong>MERN Stack</strong>.</p>
 
   <p>
     <a href="https://www.buymeacoffee.com/JetsunPrince" target="_blank" rel="noreferrer nofollow">
@@ -42,6 +41,9 @@
 <h2>💻 Tech Stack</h2>
 
 <p>
+  <img width="50px" tilte="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50px" title="SAPUI5" src="https://ui5.sap.com/resources/sap/ui/documentation/sdk/images/sap-ui5-logo.svg" />
+  <img width="50px" title="AWS Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -65,18 +67,23 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+  <img width="50px" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+</p>
+
+<h2>💻 Productivity</h2>
+
+<p>
+  <img width="50px" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img width="50px" title="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img width="50px" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img width="50px" title="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+  <img width="50px" title="Confluence" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+  <img width="50px" title="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 </p>
 
 <!-- Section: Recent Projects -->
 
-<h2>📋 Recent Projects</h2>
+<h2>📋 Academic Projects</h2>
 
 <h3>Systems</h3>
 
